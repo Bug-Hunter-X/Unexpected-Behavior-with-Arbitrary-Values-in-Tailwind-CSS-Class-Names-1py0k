@@ -1,0 +1,3 @@
+# Unexpected Behavior with Arbitrary Values in Tailwind CSS Class Names
+
+This repository demonstrates a common issue encountered when using arbitrary or undefined values within Tailwind CSS class names. Tailwind CSS relies on a predefined set of utility classes. Attempting to use values outside this set will typically result in the styles being ignored or unexpected visual outcomes.  The solution provided showcases how to avoid this and utilize Tailwind effectively.
